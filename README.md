@@ -7,7 +7,7 @@ Provides insights on
 - Profit Margin
 - Average Discount
 
-## Netflix Movie Analysis
+## Netflix Movie and Series Analysis
 
 Provides insights on
 - Genres
