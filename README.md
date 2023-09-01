@@ -1,2 +1,16 @@
 # PowerBi-project
-My first PowerBi dashboard which shows the data related to Netflix Movies and TV Shows.
+## Business Data Analysis
+
+Provides insights on
+- Sales in terms of Region, Category, Segment, and Sub-category
+- Profitability in terms of Region, Category, Segment, and Sub-category
+- Profit Margin
+- Average Discount
+
+## Netflix Movie Analysis
+
+Provides insights on
+- Genres
+- Ratings 
+- Time Periods
+- Seasons
